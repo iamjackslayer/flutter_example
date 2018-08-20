@@ -1,1 +1,2 @@
-
+This is the source code for my tutorial on how to display Google Map (both static inline and interactive) in Flutter and how to retrieve app user's location, using two plugins-MapView and Geolocation. You may want to take a look at the [tutorial article](https://medium.com/@jackwong_60367/flutter-map-view-with-geolocation-essence-extracted-2400a04a6af7).
+<img src="https://github.com/iamjackslayer/flutter_map_example/blob/master/assets/finished.gif" width="250" height="380" />
